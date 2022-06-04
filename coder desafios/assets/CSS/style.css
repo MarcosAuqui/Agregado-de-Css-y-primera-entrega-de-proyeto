@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.cuerpoPagina{
+    background-color:#DAA4A4;
+
+}
+
+.registroFondo{
+    background-color: #DAA4A4;
+}
+
+/*header*/
+.basketWorld{
+    background-color: #A11A1A;
+    color: #7C7C7C;
+    width: 100%;
+
+ }
+
+ .Busqueda{
+   width: 30px;
+ }
+ .Menu{
+    background-color: #0f0101;
+    color: #0f0101;
+    width: 40px;
+    
+ }
+
+ .volver{
+    width: 40px;
+ }
+
+/*nav*/
+.navBar {
+    width: 100%;
+    background-color:#b63930 ;
+}
+
+.iconNav {
+    width: 40px;
+    margin: 10px;
+    display: inline;
+}
+
+.IconUbicacion{
+    background-color:#C73125;
+
+}
+
+.FondoIndex{
+    width: 100%;
+    margin-top: 1%;
+    margin-trim: 1%;
+}
+/*nuevos ingresos*/
+.seccion{
+    font-size: 30px;
+    color:#0f0101 ;
+    margin-top: 5px;
+}
+
+/*Tarjeta*/
+.tarjeta {
+    width: 250px;
+    margin: 30px;
+}
+
+.tarjetaImagen{
+    width: 80%;
+}
+
+.tarjetaTitulo {
+    color: rgb(162, 46, 40);
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.tarjetaPrecio{
+    font-size: 17px;
+    color: rgb(93, 26, 23);
+}
+
+  /*Imagenes de venta*/
+.imagenesSecund{
+    width: 10% ;
+    margin-left: 10px;
+}
+.imagenGrande{
+    width: 40%;
+    margin-top: 10px;
+}
+
+.comentarios{
+    width: 50%;
+    background-color: rgb(65, 157, 239);
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+/*añadido al carrito/favoritos/reportar*/
+.AñadirCarrito{
+    width: 30px;
+    margin-left: 10px;
+
+} 
+
+.AñadirFavoritos{
+    width: 30px;
+    margin-left: 10px;
+}
+
+.Reportar{
+    width: 30px;
+    margin-left: 10px;
+
+}
+/*info del producto*/
+.especificaciones{
+    font-size: 20px;
+}
+
+
+/*Footer*/
+footer {
+    background-color: #d11919
+}    
+.derechosReserv{
+    color: #3f0606;
+    margin: 20px;
+}
+
+.redes{
+    color: #3f0606;
+    margin: 20px;
+}
+
